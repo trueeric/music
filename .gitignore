@@ -4,6 +4,7 @@ node_modules
 
 /tests/e2e/videos/
 /tests/e2e/screenshots/
+/010music-template_unzip
 
 
 # local env files
@@ -17,6 +18,7 @@ yarn-error.log*
 pnpm-debug.log*
 
 # Editor directories and files
+music-template.zip
 .idea
 .vscode
 *.suo
